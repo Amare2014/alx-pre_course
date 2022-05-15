@@ -1,1 +1,4 @@
-this is the git command line
+git add
+git pull
+git push
+git commit
